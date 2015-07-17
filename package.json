@@ -1,0 +1,29 @@
+{
+  "name": "handle-shutdown",
+  "version": "1.0.0",
+  "description": "Module for adding callbacks to run before the shutdown process",
+  "main": "shutdown.js",
+  "dependencies": {
+    "bluebird": "^2.9.34"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bberry6/handle-shutdown.git"
+  },
+  "keywords": [
+    "shutdown",
+    "kill",
+    "cleanup",
+    "handler"
+  ],
+  "author": "Brett Berry <byb810@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bberry6/handle-shutdown/issues"
+  },
+  "homepage": "https://github.com/bberry6/handle-shutdown"
+}
