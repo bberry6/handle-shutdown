@@ -29,7 +29,6 @@ process.on('beforeExit', function(){
    }
 });
 
-
 //calls all of the registered cleanup functions
 function cleanup(cb){
    cleanupCalled = true;
